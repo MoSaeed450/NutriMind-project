@@ -10,8 +10,8 @@ Modern health and wellness tracking platform with calorie calculator, macro trac
 ---
 
 ## 📸 Screenshots
-![Homepage](./nutrimind1.png)
-![Dashboard](./nutrimind2.png)
+![Homepage](./nutri1.png)
+![Dashboard](./nutri2.png)
 
 ---
 
